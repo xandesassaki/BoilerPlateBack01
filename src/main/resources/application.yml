@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: ${SYSTEM_CUSTOM_PORT}
 
 spring:
   datasource:
